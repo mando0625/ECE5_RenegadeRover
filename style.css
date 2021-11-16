@@ -1,5 +1,5 @@
 body{
-  background-image: url('https://lanecdr.org/wp-content/uploads/2019/08/placeholder.png'); /*Seeting the background image. Ypu can change this by changing the link!*/
+  background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToUpQBsFRhAUl2eykSgceqTp2E-HYCxUR5Cw&usqp=CAU'); /*Seeting the background image. Ypu can change this by changing the link!*/
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -89,7 +89,7 @@ p2 {
   margin-bottom: 10px;
   margin-top: 10px;
   width: 100%;
-  background-color: rgb(255,255,255); /*you can change color by changing the HEX code*/
+  background-color: rgb(83,226,37); /*you can change color by changing the HEX code*/
 }
 
 .btn:hover {
@@ -101,4 +101,4 @@ p2 {
 
 .imgmar{
   margin: 1.5%;
-}
+}}
